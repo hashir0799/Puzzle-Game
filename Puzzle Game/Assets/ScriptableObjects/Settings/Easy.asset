@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc46762201ef8cf4ba7c52871a71c859, type: 3}
+  m_Name: Easy
+  m_EditorClassIdentifier: 
+  Mode: 0
+  GameplaySprites:
+  - {fileID: 21300000, guid: 60ac29acb873aab45bdd32820194378e, type: 3}
+  - {fileID: 21300000, guid: 6c358ffb30a9f65459b303b7a4ff6f32, type: 3}
+  - {fileID: 21300000, guid: 39e3c0e8f0754fd4fa15d286750f40b2, type: 3}
+  - {fileID: 21300000, guid: 66c7e3bde7ec0c54082b82339ce92e1e, type: 3}
+  - {fileID: 21300000, guid: aafd92889da423144a9ec22b6dcbfa62, type: 3}
+  - {fileID: 21300000, guid: b5c5f99e2faf7aa47845af72594bacf0, type: 3}
+  - {fileID: 21300000, guid: cde86e3d2ebee724c8c3d8a1ef390c49, type: 3}
+  - {fileID: 21300000, guid: b781d2f7188fdfa40a47909a33da4159, type: 3}
+  - {fileID: 21300000, guid: f679ea0927b4ba441b482b39fc023d77, type: 3}
+  - {fileID: 21300000, guid: a794b687c1f76fe429e547e7e050a70d, type: 3}
+  - {fileID: 21300000, guid: d990ed1e899686c4f90cf0e2b396cdf6, type: 3}
+  - {fileID: 21300000, guid: 6601e5d69ec1c2844bd9e04d28ea1c9e, type: 3}
+  SpwanCount: 12
+  CanRepeat: 1
+  RepeatCount: 3
+  Spacing: {x: 10, y: 10}
+  constraint: 0
+  Axis: 1
+  StartCorner: 0
+  PaddingLeft: 0
+  PaddingRight: 0
+  PaddingTop: 0
+  PaddingBottom: 0
+  SpwanSprites: []
